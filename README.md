@@ -1,15 +1,19 @@
 #PRODIGY_DS_01
 
 #Create a bar chart or histogram to visualize the distribution of a categorical or continuous variable, such as the distribution of ages or genders in a population.
+
 This is a brief summary of the task.
 
 #Description
+
 This repository provides examples of creating bar charts and histograms to visualize the distribution of categorical and continuous variables using Matplotlib and NumPy.
 
 #Introduction:
+
 Visualizing the distribution of data is essential for understanding its characteristics and patterns. Bar charts and histograms are commonly used plots for this purpose. This repository demonstrates how to create these visualizations in Jupyter Notebooks using Matplotlib, a popular Python plotting library.
 
 #Steps:
+
 Step 1: Import Necessary Libraries
 Before creating the plots, import the required libraries: Matplotlib for plotting and NumPy for generating example data.
 Step 2: Prepare Data
