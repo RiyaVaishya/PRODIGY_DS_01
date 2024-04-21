@@ -4,7 +4,7 @@
 
 This is a brief summary of the task.
 
-#Description
+#Description:
 
 This repository provides examples of creating bar charts and histograms to visualize the distribution of categorical and continuous variables using Matplotlib and NumPy.
 
@@ -35,7 +35,7 @@ Jupyter Notebook
 
 Packages:matplotlib,numpy.
 
-#Conclusion
+#Conclusion:
 
 Distribution of Preferred Travel Cities:
 
